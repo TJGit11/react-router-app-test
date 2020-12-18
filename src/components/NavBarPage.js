@@ -10,6 +10,7 @@ class NavBarPage extends Component {
                 | <Link to="/">Home</Link> | 
                 | <Link to="/menu">Menu</Link> | 
                 | <Link to="/about">About</Link> |
+                | <Link to="/extra">Extra</Link> |
             </div>
             
         );
